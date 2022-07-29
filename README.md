@@ -2,7 +2,7 @@
 - 👀 I’m interested in Ful Stack Web Development
 - 🌱 I’m currently learning pure Java Script and it's frame works
 - 💞️ I’m looking to collaborate on Wed development projects 
-- 📫 You can reach me mail : adityabusiness001@gmail.com ; twitter : @Aditya_jaiswal5 
+- 📫 You can reach me mail : adityabusiness001@gmail.com ; twitter : https://twitter.com/Aditya_jaiswal5
 
 <!---
 Adj-001/Adj-001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
