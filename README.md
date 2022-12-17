@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Aditya Jaiswal
-- 👀 I’m interested in Ful Stack Web Development
-- 🌱 I’m currently learning pure Java Script and it's frame works
+- 💞️ Love React Js ; Node Js ; Mongo DB
+- 👀 Into Full Stack Web Development
+- 🌱 Mastering JavaScript
 - 💞️ I’m looking to collaborate on Wed development projects 
 - 📫 You can reach me mail : adityabusiness001@gmail.com ; twitter : https://twitter.com/Aditya_jaiswal5
 
